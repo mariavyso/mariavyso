@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mariavyso
-- 👀 I’m interested in everything connected with Data
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me www.linkedin.com/in/vysochina
+👋 Hi, my name is Maria
+I build tools
+I’m all about embracing new challenges and learning opportunities
+Let’s do something awesome together!
+
 
 <!---
 mariavyso/mariavyso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

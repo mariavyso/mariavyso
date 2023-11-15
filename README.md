@@ -1,7 +1,7 @@
 👋 Hi, my name is Maria
-I build tools
-I’m all about embracing new challenges and learning opportunities
-Let’s do something awesome together!
+<br>I build tools
+<br>I’m all about embracing new challenges and learning opportunities
+<br>Let’s do something awesome together!
 
 
 <!---

@@ -1,5 +1,5 @@
 👋 Hi, my name is Maria
-<br>I'm a Data Engineer aspiring to be a Software Engineer
+<br>I'm a Software Engineer with a solid background in Data Engineering and Analytics
 <br>I’m all about embracing new challenges and learning opportunities
 <br>Let’s do something awesome together!
 

@@ -1,5 +1,5 @@
 👋 Hi, my name is Maria
-<br>I build tools
+<br>I'm a Data Engineer aspiring to be a Software Engineer
 <br>I’m all about embracing new challenges and learning opportunities
 <br>Let’s do something awesome together!
 
